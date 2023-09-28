@@ -1,3 +1,16 @@
+# Developer portfolio
+
+This is a template/mock of a web developer portfolio.
+
+UI built by using chakra-ui.
+
+## Screeenshots
+
+![Landing page](./screenshots/image3.png)
+![Featured projects](./screenshots/image2.png)
+![Contact form submission](./screenshots/image7.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
